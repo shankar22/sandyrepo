@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-thsi is adding to master
-=======
+
+thsi is adding to maste
 this is adding to the feature
->>>>>>> feature-1
